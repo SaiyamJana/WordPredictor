@@ -1,0 +1,95 @@
+﻿My name is Saiyam Jana, and I am a final-year Bachelor of Technology student in Computer Science and Engineering at the Indian Institute of Engineering Science and Technology, Shibpur.
+
+I am passionate about software development, problem solving, artificial intelligence, machine learning, and emerging technologies that can solve real-world problems and improve people's lives.
+
+Throughout my academic journey, I have developed a strong foundation in programming, data structures, algorithms, object-oriented programming, database management systems, operating systems, computer networks, and software engineering.
+
+My preferred programming language is C++, and I regularly practice coding problems to improve my logical thinking, analytical abilities, and algorithmic efficiency.
+
+I have solved numerous problems on LeetCode and participated in competitive programming activities to strengthen my understanding of algorithms and improve my technical interview preparation.
+
+I enjoy solving problems involving arrays, strings, linked lists, stacks, queues, trees, graphs, recursion, dynamic programming, binary search, greedy algorithms, and bit manipulation.
+
+I am also learning Java to expand my programming knowledge and become more comfortable with different programming languages and software development environments.
+
+Apart from competitive programming, I enjoy developing full-stack web applications using modern technologies such as React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, and REST APIs.
+
+One of my major projects is AgentTrack AI, an AI-augmented project and workforce management platform developed as a proof of concept with my teammates.
+
+The application provides project management, task assignment, role-based access control, real-time communication, notifications, workload tracking, and risk reporting capabilities for collaborative software teams.
+
+I worked with technologies such as React, Express.js, MongoDB, JWT authentication, Socket.IO, and generative artificial intelligence integration using Groq.
+
+This project helped me understand how frontend applications communicate with backend services and how databases store and retrieve information efficiently.
+
+I learned how authentication protects user accounts, how role-based permissions control access, and how real-time communication systems deliver information between multiple users.
+
+The project also introduced me to the practical challenges of developing collaborative software and integrating intelligent capabilities into existing application workflows.
+
+Another project I developed is Book Vault, a digital library management platform designed to simplify book discovery, borrowing, reservations, user authentication, and book reviews.
+
+The application uses React and Tailwind CSS for the frontend and FastAPI for backend development.
+
+Through this project, I gained practical experience in API development, application architecture, database operations, authentication, and designing user-friendly interfaces.
+
+I have also created an algorithm visualizer using HTML, CSS, and JavaScript to demonstrate sorting algorithms through interactive animations.
+
+The visualizer helps learners understand how sorting algorithms operate by displaying changes in element positions during each step of the execution process.
+
+I believe that visualizing algorithms makes technical concepts easier to understand and helps learners compare different approaches to solving computational problems.
+
+During my research internship at IIEST Shibpur from May to July 2026, I explored agentic software development and studied the role of autonomous artificial intelligence agents.
+
+My research focused on understanding how agentic techniques can support software planning, development workflows, automation opportunities, collaboration, and different stages of the software development lifecycle.
+
+I explored how software applications can be planned, implemented, tested, monitored, and improved through structured workflows involving intelligent agents and appropriate engineering practices.
+
+This experience encouraged me to think beyond individual coding tasks and consider how complete software systems can be designed and developed systematically.
+
+I also participated in the Amazon Machine Learning Summer School in 2025, where I explored fundamental concepts related to machine learning and artificial intelligence.
+
+I am interested in understanding how data, statistical methods, optimization techniques, and neural networks can be used to develop predictive systems and intelligent applications.
+
+I have developed my Python skills and continue learning about data preprocessing, model training, evaluation metrics, neural networks, natural language processing, and deep learning.
+
+One of my learning goals is to develop a next-word prediction model that can identify textual patterns and predict the most likely word following a given sequence.
+
+I want to understand the complete machine learning pipeline, including dataset collection, text cleaning, tokenization, vocabulary creation, sequence generation, model architecture, training, evaluation, and deployment.
+
+I am particularly interested in experimenting with recurrent neural networks, long short-term memory networks, and transformer-based architectures to understand their strengths and limitations.
+
+I use tools such as Visual Studio Code, Google Colab, Git, GitHub, Jupyter notebooks, and Kaggle to experiment with code, manage projects, and train machine learning models.
+
+Google Colab allows me to use cloud-based computing resources for experiments, while Visual Studio Code helps me organize my code and develop applications locally.
+
+I believe that consistent practice, careful experimentation, and learning from mistakes are essential for becoming a better software engineer and machine learning practitioner.
+
+I am also interested in cloud computing, scalable backend systems, distributed applications, cybersecurity fundamentals, and software deployment.
+
+I want to understand how applications are hosted, how servers handle multiple requests, how databases scale, and how cloud infrastructure supports modern software products.
+
+My approach to learning is practical because I prefer implementing concepts rather than simply memorizing definitions or theoretical explanations.
+
+Whenever I encounter a difficult problem, I try to break it into smaller parts, identify the underlying pattern, develop a solution, and test it against different cases.
+
+I value clean code, readable documentation, efficient algorithms, modular architecture, meaningful variable names, and systematic debugging.
+
+I understand that successful software development requires collaboration, communication, planning, testing, and continuous improvement in addition to programming knowledge.
+
+Working on team projects has helped me appreciate the importance of dividing responsibilities, discussing design decisions, integrating independent modules, and resolving unexpected technical issues.
+
+As a computer science student, I am preparing for software engineering internships and full-time opportunities where I can contribute to real products and learn from experienced engineers.
+
+I am interested in software development engineer roles, backend engineering, full-stack development, and opportunities involving artificial intelligence or machine learning.
+
+My long-term goal is to become a skilled software engineer who can design reliable, maintainable, efficient, and intelligent applications.
+
+I want to build products that are useful to people, solve meaningful problems, and demonstrate the practical value of technology.
+
+I know that the technology industry changes rapidly, so I intend to remain curious, explore new tools, strengthen my fundamentals, and adapt to emerging engineering practices.
+
+I believe that discipline, patience, consistency, curiosity, and a willingness to learn are important qualities for achieving long-term success.
+
+Every project, coding problem, research activity, and technical experiment provides an opportunity to improve my understanding and develop new skills.
+
+I am excited about continuing my journey in computer science, exploring challenging ideas, collaborating with talented people, and turning creative concepts into working software.
